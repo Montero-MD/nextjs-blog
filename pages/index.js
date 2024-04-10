@@ -9,7 +9,7 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle}</title>
+        <title>Takumi's Blog</title>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Tofu Delivery Driver / doer of all things nothing. I like cars, I guess</p>
